@@ -55,5 +55,3 @@ Dit project is open source. Zie LICENSE.md voor details.
 
 Bedankt dat je deel uitmaakt van deze reis! 🙌
 ```
-
-Zo hebben bezoekers meteen alle belangrijke pagina's binnen handbereik!
