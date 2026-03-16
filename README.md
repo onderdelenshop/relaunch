@@ -1,4 +1,3 @@
-```markdown
 # Relaunch onderdelenshop.eu
 
 Welkom bij het officiële repository voor de heropening van **onderdelenshop.eu**! 🚀
@@ -15,17 +14,6 @@ Dit is de centrale plek waar we de volledige relaunch van onderdelenshop.eu coö
 - 🔍 Betere zoek- en filterfunctionaliteit
 - 📚 Uitgebreide blog met tips en gidsen
 - 🛠️ Optimalisatie voor onderdelenzoekers
-
-## Repository structuur
-
-```
-/relaunch
-├── /frontend          # Frontend code (HTML, CSS, JavaScript)
-├── /backend           # Backend API en logica
-├── /docs              # Documentatie en richtlijnen
-├── /assets            # Afbeeldingen, iconen, fonts
-└── README.md          # Dit bestand
-```
 
 ## Bijdragen
 
@@ -54,4 +42,3 @@ Dit project is open source. Zie LICENSE.md voor details.
 **Volg ons:** [@onderdelenshop](https://github.com/onderdelenshop)
 
 Bedankt dat je deel uitmaakt van deze reis! 🙌
-```
